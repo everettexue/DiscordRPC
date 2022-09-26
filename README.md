@@ -32,5 +32,7 @@ Step 6 To run the program just type "node ." to run it if it says module not fou
 Step 7 It should (return RPC is running)
 <img width="1027" alt="Screen Shot 2022-09-26 at 4 26 25 PM" src="https://user-images.githubusercontent.com/96892745/192373381-31bc25c3-30de-488d-a3b0-21af1f668775.png">
 
+To stop it just press controll and c at the same time.
+
 Congrats your now a epic coder!
 
