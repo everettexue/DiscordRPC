@@ -25,7 +25,7 @@ Step 5.1 If you dont know what all of the values mean use these 3 images to help
 <img width="357" alt="Screen Shot 2022-09-26 at 4 21 05 PM" src="https://user-images.githubusercontent.com/96892745/192372572-1c7513ee-10b4-46ba-b854-a2cac048c745.png">
 <img width="352" alt="Screen Shot 2022-09-26 at 4 21 43 PM" src="https://user-images.githubusercontent.com/96892745/192372587-47b9d59b-e13a-4716-a21c-16713e033008.png">
 
-Step 6 To run the program just type "node ." to run it if it says module not found just make sure your in the correct directory ti navigate just do cd (your directory) like cd Downloads if it still dosent work install nodejs by googling it
+Step 6 To run the program just type "node ." to run it if it says module not found just make sure your in the correct directory to navigate just do cd (your directory) like cd Downloads if it still dosent work install nodejs by googling it
 
 <img width="1027" alt="Screen Shot 2022-09-26 at 4 24 02 PM" src="https://user-images.githubusercontent.com/96892745/192373132-921e25f4-859e-4bfc-8442-53193cf38dc6.png">
 
@@ -36,3 +36,4 @@ To stop it just press controll and c at the same time.
 
 Congrats your now a epic coder!
 
+(You cant press your buttons if you realize that your buttons arent working only other people can use the buttons.)
